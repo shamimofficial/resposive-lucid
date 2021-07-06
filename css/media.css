@@ -1,0 +1,609 @@
+
+@media (min-width: 576px) and (max-width: 767px){
+    .phone img {
+        display: none;
+    }
+    .pricing-content {
+        margin-bottom: 15px;
+    }
+
+    .banner-content {
+        text-align: center;
+    }
+    .client-img {
+        width: 50px;
+        height: 50px !important;
+    }
+    .client-des h6 {
+        font-size: 12px;
+    }
+    .device-text {
+        margin-top: 30px;
+    }
+    .iphone {
+        display: inherit;
+        width: 66%;
+    }
+    .banner-content h1 {
+        font-size: 41px;
+        text-align: center;
+    }
+    .phone-part {
+        flex-direction: column-reverse;
+    }
+    .phone-part img {
+  
+        padding-top: 31px;
+    }
+    .banner-content h5 {
+        margin-bottom: 7px;
+    }
+    .banner-content p {
+
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+    .features-item p {
+        margin-top: 8px;
+    }
+    .texas {
+        margin-bottom: 16px;
+    }
+    .features-item {
+        padding-top: 20px !important;
+    }
+    .features_content {
+        padding-bottom: 15px !important;
+    }
+    .device {
+        text-align: center;
+        padding-top: 0px !important;
+    }
+    .icon-finder {
+        margin: 0px 120px;
+    }
+    .super-easy {
+        text-align: center;
+    }
+    .super-easy {
+        padding-top: 0px;
+    }
+    .text-part p {
+        font-size: 17px;
+    }
+    .text-part h1 {
+        font-size: 37px;
+    }
+    .text-part h1 {
+        margin: 0px;
+    }
+    .images-part img {
+        margin-left: 0px;
+        margin-top: 16px;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded {
+
+        padding: 0px !important;
+    }
+
+    .testimonial-items h2 {
+        font-size: 27px;
+        font-weight: 600;
+    }
+    .strong p {
+        font-size: 15px;
+    }
+    .client-img {
+        height: 50px;
+    }
+    .client-des h2 {
+        font-size: 16px !important;
+    }
+    .clinet {
+        width: 87%;
+        margin: auto;
+        padding-top: 25px;
+        margin-left: 0px;
+    }
+    .owl-dots .owl-dot span {
+        height: 8px;
+        width: 8px;
+        margin: 0px 10px;
+    }
+
+    .test-button h2 {
+        font-size: 23px;
+    }
+    .buttons {
+        margin-top: 20px;
+    }
+    .btn-part {
+        height: 50px;
+        width: 170px;
+        font-size: 17px;
+        padding: 10px;
+    }
+    
+    .btn-part2 {
+        height: 50px;
+        width: 170px;
+        font-size: 17px;
+        padding: 10px;
+    }
+    .pricing-plans h2 {
+        font-size: 40px;
+    }
+    .pricing-plans h5 {
+        font-size: 15px;
+    }
+    .contact-us h2 {
+        font-size: 41px;
+    }
+    .text-bottom {
+        margin-bottom: 19px;
+    }
+    .contact-form {
+        margin-right: 21%;
+        margin-left: -21%;
+    }
+    form textarea {
+        width: 100%;
+    }
+    .body-theme{
+        margin-top: 36px;
+    }
+}
+
+
+
+@media (min-width: 0px) and (max-width: 575px){
+
+    .phone {
+        display: none;
+    }
+    .banner-content {
+        min-height: 52vh;
+    }
+
+    .body-theme{
+        text-align: center;
+        margin-top: 36px;
+    }
+
+    .banner-content h1 {
+        font-size: 31px;
+    }
+    .banner-content p {
+
+font-size: 17px;
+
+margin-bottom: 47px;
+}
+    .btn-download {
+
+        padding: 12px 26px;
+        font-size: 14px;
+        margin-top: -60px;
+        margin-top: 8px !important;
+    }
+
+    .btn-features {
+        
+        padding: 12px 26px;
+        font-size: 14px;
+        margin-top: -60px;
+        margin-top: 8px !important;
+    }
+
+    .features-item h2 {
+        font-size: 25px;
+        margin: 2px 0px;
+
+    }
+    .features-item p {
+        margin-top: 11px;
+    }
+    .texas {
+        margin-top: 16px;
+    }
+    .features-item {
+        margin-top: -20px !important;
+    }
+    .phone-part {
+        text-align: center;
+        margin-top: -20px;
+    }
+    .device-text h1 {
+        font-size: 34px;
+
+    }
+    .device-text p {
+        font-size: 16px;
+    }
+    .icon-finder {
+        margin: 0px 134px;
+    }
+    .text-part {
+        margin-top: 37px;
+    }
+    .super-easy {
+        padding-top: 0px;
+        text-align: center;
+    }
+    .text-part h1 {
+        font-size: 35px;
+        margin: 5px 0px;
+    }
+    .text-part p {
+
+        font-size: 17px;
+    }
+    .images-part img {
+        width: 81%;
+        margin-left: 0px;
+    }
+    .testimonial-items h5 {
+        font-size: 15px;
+    }
+    .testimonial-items h2 {
+        font-size: 26px;
+    }
+    .strong p {
+
+        font-size: 17px;
+        margin-top: 0px;
+    }
+    .client-img {
+        /* width: 50px; */
+        /* height: 50px; */
+    }
+    .client-des h2 {
+        font-size: 14px !important;
+    }
+    .client-des h6 {
+
+        font-size: 12px;
+    }
+    .clinet {
+        margin: auto;
+    }
+
+    .owl-dots .owl-dot span {
+        height: 8px;
+        width: 8px;
+        margin: 4px 10px;
+    }
+
+    .test-button h2 {
+        font-size: 23px;
+    }
+    .btn-part {
+        height: 50px;
+        width: 160px;
+        font-size: 15px;
+        padding: 12px 0px;
+        font-weight: 500;
+    }
+
+    .btn-part2{
+        
+        height: 50px;
+        width: 160px;
+        font-size: 15px;
+        padding: 12px 0px;
+        font-weight: 500;
+    }
+    .buttons {
+        margin-top: 20px;
+    }
+    .pricing-plans h5 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .pricing-plans h2 {
+        font-size: 37px;
+    }
+    .contact-us h5 {
+        font-size: 15px;
+    }
+    .contact-us h2 {
+        font-size: 37px;
+    }
+    .text-bottom {
+        margin-top: 20px;
+    }
+    form textarea {
+
+        width: 100%;
+    }
+    .contact-form {
+
+        margin: 0px 30px;
+    }
+
+    .contact-form {
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px){
+    .btn-features {
+        margin-left: 0px;
+    }
+    .banner-content p {
+        font-size: 16px;
+        margin-bottom: 28px;
+    }
+    .banner-content h1 {
+        font-size: 23px;
+    }
+    .heading-content h1 {
+        font-size: 28px;
+    }
+    .features-item {
+        margin-top: -71px !important;
+    }
+    .device-text h1 {
+        font-size: 27px;
+        margin-bottom: -6px;
+    }
+    
+    .icon-finder {
+        margin: 0px;
+        margin-left: 0px;
+        padding-top: 0px !important;
+    }
+    .icon-finder ul li h6 {
+        font-size: 14px;
+    }
+    .icon-finder ul li i {
+        font-size: 16px !important;
+    }
+    .text-part h1 {
+        font-size: 28px;
+        margin: 0px;
+    }
+    .text-part h5 {
+        font-size: 14px;
+    }
+    .text-part p {
+        font-size: 15px;
+    }
+    .strong p {
+        font-size: 15px;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded {
+        padding-top: 21px !important;
+    }
+    .client-des h2 {
+        font-size: 12px !important;
+    }
+    .client-img img {
+        width: 60% !important;
+        height: 60%;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+    .client-img {
+        width: 60% !important;
+    }
+    .client-des h6 {
+        font-size: 10px !important;
+    }
+    .test-button h2 {
+        font-size: 18px;
+    }
+    .btn-part {
+        height: 45px;
+        width: 150px;
+        font-size: 13px;
+    }
+    .btn-part2 {
+        height: 45px;
+        width: 150px;
+        font-size: 13px;
+        margin-left: 18px;
+    }
+    .pricing-heading h4 {
+        font-size: 36px;
+    }
+    .pricing-content {
+        margin-bottom: 27px;
+    }
+    .social-icon {
+        font-size: 10px;
+    }
+    .end-text h3 {
+        font-size: 12px;
+    }
+
+}
+
+@media (min-width: 321px) and (max-width: 375px){
+    .btn-features {
+        padding: 10px 14px;
+        font-size: 12px;
+        margin-top: -35px !important;
+    }
+    .icon-finder {
+        margin: 0px 34px;
+    }
+    .btn-download {
+        padding: 10px 14px;
+        font-size: 12px;
+        margin-top: -60px;
+        margin-top: -35px !important;
+    }
+    .client-img {
+        width: 45%;
+    }
+    .client-des h2 {
+        font-size: 11px !important;
+    }
+    .client-des h6 {
+        font-size: 10px;
+    }
+    .strong p {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+    .test-button h2 {
+        font-size: 18px;
+    }
+    .btn-part {
+        height: 40px;
+        width: 145px;
+        font-size: 11px;
+    }
+    .btn-part2 {
+        height: 40px;
+        width: 145px;
+        font-size: 11px;
+    }
+    .pricing-content {
+        margin-bottom: 24px;
+    }
+    .end-text h3 {
+        font-size: 12px;
+    }
+    .social-icon {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 991px){
+    .phone img {
+        height: 475px;
+    }
+    .phone {
+        left: 55%;
+        width: 60%;
+    }
+
+    /* Toggle Button start */
+    .navbar-nav {
+        text-align: end;
+    
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin-bottom: 7px;
+    }
+
+    /* Toggle Button end */
+    .banner-content {
+        margin-top: 50px;
+    }
+    .banner-content {
+        min-height: 56vh;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-content p {
+        font-size: 17px;
+    }
+    .btn-features {
+        font-size: 10px;
+        margin-left: 18px;
+    }
+    .btn-download {
+        font-size: 10px;
+    }
+    .icon-box {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+        font-size: 26px;
+
+    }
+    .features-item h2 {
+        font-size: 23px;
+    }
+    .features-item p {
+        font-size: 12px;
+    }
+    .heading-content h1 {
+        font-size: 30px;
+    }
+    .device-text {
+        margin-top: 0px;
+    }
+    .text-part {
+        margin-top: 0px;
+    }
+    .device-text p {
+        font-size: 15px;
+    }
+    .icon-finder ul li h6 {
+        font-size: 16px;
+    }
+    .icon-finder ul li h6 {
+        font-size: 16px;
+    }
+    .images-part img {
+        margin-left: 109px;
+    }
+    .text-part p {
+        font-size: 15px;
+    }
+    .text-part h1 {
+        font-size: 34px;
+    }
+    .testimonial-items h2 {
+        font-weight: 600;
+    }
+    .strong p {
+        font-size: 16px;
+    }
+    .client-img {
+        width: 30%;
+    }
+    .clinet {
+        width: 63%;
+    }
+    .test-button h2 {
+        font-size: 30px;
+    }
+    .btn-part {
+        height: 40px;
+        width: 160px;
+        font-size: 12px;
+    }
+    
+    .btn-part2 {
+        height: 40px;
+        width: 160px;
+        font-size: 12px;
+    }
+    .buttons {
+        align-items: center;
+    }
+    .pricing-content {
+        margin-bottom: 20px;
+    }
+    .contact-form {
+        left: 50%;
+        transform: translateX(-44%);
+    }
+    
+}
+
+@media (min-width: 992px) and (max-width: 1024px){
+    .phone img {
+        height: 520px;
+    }
+    .phone {
+        left: 50%;
+    }
+    .banner-content h1 {
+        font-size: 31px;
+    }
+    .banner-content p {
+        font-size: 17px;
+    }
+}
+@media (min-width: 1025px) and (max-width: 1440px){
+    .phone {
+        left: 55%;
+    }
+}
